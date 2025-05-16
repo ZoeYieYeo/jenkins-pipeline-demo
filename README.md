@@ -1,2 +1,2 @@
 # jenkins-pipeline-demo
-<!-- Triggering Jenkins builds -->
+<!-- Triggering Jenkins build -->
